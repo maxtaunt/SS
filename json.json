@@ -1,0 +1,268 @@
+﻿{
+  "title": "Open-Source iOS Apps",
+  "subtitle": "A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:",
+  "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
+  "header": "",
+  "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
+  "sponsor": "",
+  "categories": [
+    {
+      "title": “Breakfast Pizza",
+      "id": "recipe"
+    },
+    {
+      "title": “Cabbage Salad",
+      "id": "recipe"
+    },
+    {
+      "title": "Caramel Corn",
+      "id": "browser"
+    },
+    {
+      "title": "Caramel Layer Chocolate Squares ",
+      "id": "recipe"
+    },
+    {
+      "title": “Cereal mix",
+      "id": "recipe"
+    },
+    {
+      "title": "Apricot Balls",
+      "id": "recipe"
+    },
+    {
+      "title": "Chex mix",
+      "id": "recipe"
+    },
+    {
+      "title": "Cinnamon Squares",
+      "id": "recipe"
+    },
+    {
+      "title": "Crack",
+      "id": "recipe"
+    },
+    {
+      "title": "Cool Whip Cookies",
+      "id": "recipe"
+    },
+    {
+      "title": "Dunking Platters",
+      "id": "recipe"
+    },
+    {
+      "title": "Glazed Honey Ham",
+      "id": "recipe"
+    },
+    {
+      "title": "Green Jell-O ",
+      "id": "recipe"
+    },
+    {
+      "title": "Hello Dollys",
+      "id": "recipe"
+    },
+    {
+      "title": "Layer Salad",
+      "id": "recipe"
+    },
+    {
+      "title": "Molasses Cookies ",
+      "id": "recipe"
+    },
+    {
+      "title": "Pasta salad",
+      "id": "recipe",
+    },
+    {
+      "title": "Peanut Butter Chocolate Cookies ",
+      "id": "recipe",
+    },
+    {
+      "title": "Peanut Butter Fudge",
+      "id": "recipe",
+      "description": "Today Extensions or Widgets",
+    },
+    {
+      "title": "Sugar Cookies",
+      "id": "recipe",
+      "description": "Widget (iOS 14)",
+    },
+    {
+      "title": "Stroganoff",
+      "id": "recipe",
+      "description": "File Management"
+    },
+    {
+      "title": "Sweet Potato and Apple Bake",
+      "id": "recipe"
+    },
+    {
+      "title": "Tuekey Casserole",
+      "id": "recipe",
+    }  
+],
+  "projects": [
+    {
+      "title": "Ingredients",
+      "category-ids": [
+        “breakfast-pizza"
+      ],
+     "description": “
+1 package of uncooked crescent rolls 
+1 ½lb sausages, cooked and drained  
+6 eggs, slightly beaten  
+1 TBS salt  
+2 cups of grated cheese  
+1 cup of milk",
+      "date_added": ""
+    },
+    {
+      "title": "Instructions",
+      "category-ids": [
+        “breakfast-pizza"],
+      "description": "1. Preheat oven to 350⁰  
+2. Place uncooked rolls on bottom of greased 9" x 13" pan  
+3. In a large bowl, mix sausages, eggs, salt, cheese, and milk.  
+4. Pour mixture over rolls.  
+5. Bake for 45-60 Mins",
+      "date_added": ""
+    },
+    {
+      "title": "Ingredients",
+      "category-ids": [
+        “cabbage-salad"
+      ],
+      "description": "½  head of cabbage 1 package of Top Ramen©, break into pieces and pour boiling water over noodles until soft  
+1 Cup silvered almonds  
+3 chicken beasts, cooked and shredded",
+      "updated": "2020-02-19 16:46:09 UTC"
+    },
+    {
+      "title": "Instructions",
+      "category-ids": [
+        "cabbage-salad"
+      ],
+      "description": "3 Tbs sugar 3 Tbs vinegar ½ Cup neutral oil & salt and pepper",
+      "updated": ""
+    },
+    {
+      "title": "Ingredients",
+      "category-ids": [
+        “caramel-corn"
+      ],
+      "description": "1 Cup brown sugar  
+½ Cup corn syrup  
+½ Cup butter  
+½ Tbs salt  
+4 Qts popped popcorn  
+½ Tbs baking soda ",
+      "updated": "2023-10-31 21:45:27 UTC"
+    },
+    {
+      "title": "Instructions",
+      "category-ids": [
+        "caramel-corn"
+      ],
+      "description": "1. Mix sugar, corn syrup, butter, and salt in a microwave-safe dish. (recommend: «PYREX» not «Pyrex» dishes) 
+2. Microwave mixture for 4 minutes 
+3. Put popcorn in a paper grocery bag. 
+4. Add baking soda to mixture, and stir untillbit foams up. 
+5. Pour mixture over popcorn, close bag, & shake. 
+6. Microwave popcorn for 2 minutes and shake. 
+7. Microwave popcorn for 2 more minutes and shake before serving",
+           "updated": ""
+    },
+    {
+      "title": "Ingredients",
+      "category-ids": [
+        “caramel-layer"
+      ],
+      "description": "1 package of German chocolate cake mix  
+1 ¼ sticks of margarine (melted)  
+⅔ Cup sweetend condensed milk  
+1 Cup chopped nuts  
+1  14 oz package of kraft caramels  
+1 16 oz package of chocolate chips",
+      "updated": ""
+    },
+    {
+      "title": "Instructions",
+      "category-ids": [
+        "caramel-layer"
+      ],
+      "description": "1. Preheat oven to 350⁰. 
+2. In a large bowl, combine cake mix, margarine, ⅓ Cups milk, and nuts by hand. 
+3. Grease 9" x 13" pan. 
+4. Spread ¾ of cake mixture into pan. 
+5. Bake for 6 minutes. 
+6. While cake is baking, melt caramels in a saucepan with ⅓ Cup of milk, stirring constantly until mixture is completely melted. 
+7. After taking pan out of the oven, sprinkle chocolate chips all over the cake. 
+8. spread caramel over chocolate chips. 
+9. Separate remaining cake mix into bits and dab over caramel layer. 
+10. Bake for 16 more minutes. 
+11. Cool for 5 minutes before refrigerating for 30 minutes. 
+12. Cut into squares and serve. ",
+       "updated": ""
+    },
+    {
+      "title": "Servings",
+      "category-ids": [
+        "caramel-layer"
+      ],
+      "description": "Makes 40 squares",
+      "updated": "2018-02-01 07:48:28 UTC"
+    },
+    {
+      "title": "Bither",
+      "category-ids": [
+        "apple-watch",
+        "cryptocurrency"
+      ],
+      "description": "Simple & secure Bitcoin wallet",
+      "license": "apache-2.0",
+      "source": "https://github.com/bither/bither-ios",
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/41/7e/fe/417efe4a-cb72-2911-af76-5c3c95af8d13/pr_source.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/39/68/85/39688509-61d9-a94a-d8fb-7f5642bf1e94/pr_source.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0f/12/3c0f12c3-2bfe-c262-e01f-b2b8698cc624/pr_source.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/86/71/7b/86717be0-9497-cefa-6e40-c8a9bf48002c/pr_source.png/460x0w.jpg"
+      ],
+      "stars": 264,
+      "date_added": "Fri Apr 3 17:59:14 2015 +0800",
+      "suggested_by": "宋辰文",
+      "updated": "2023-11-27 07:13:48 UTC"
+    },
+    {
+      "title": "Brew",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "Discover craft beer pubs nearby",
+      "license": "mit",
+      "source": "https://github.com/contentful/ContentfulWatchKitExample",
+      "itunes": "https://apps.apple.com/app/id986830433",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "stars": 71,
+      "date_added": "Wed Apr 29 16:01:24 2015 +0200",
+      "suggested_by": "@Boris Bügling",
+      "screenshots": [
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg"
+      ],
+      "updated": "2015-04-29 13:36:11 UTC"
+    }
+
+
+
+
+    }    
+  ]
+}
