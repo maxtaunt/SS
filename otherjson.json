@@ -6,239 +6,102 @@
   "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
   "sponsor": "",
   "categories": [
-    {
-      "title": "Breakfast Pizza",
+  {
+      "title": “Breakfast Pizza",
       "id": "recipe"
     },
     {
-      "title": "Apple Watch",
-      "id": "apple-watch"
+      "title": “Cabbage Salad",
+      "id": "recipe"
     },
     {
-      "title": "Browser",
+      "title": "Caramel Corn",
       "id": "browser"
     },
     {
-      "title": "Calculator",
-      "id": "calculator"
+      "title": "Caramel Layer Chocolate Squares ",
+      "id": "recipe"
     },
     {
-      "title": "Calendar",
-      "id": "calendar"
+      "title": “Cereal mix",
+      "id": "recipe"
     },
     {
-      "title": "Color",
-      "id": "color"
+      "title": "Apricot Balls",
+      "id": "recipe"
     },
     {
-      "title": "Clock",
-      "id": "clock"
+      "title": "Chex mix",
+      "id": "recipe"
     },
     {
-      "title": "Clone",
-      "id": "clone"
+      "title": "Cinnamon Squares",
+      "id": "recipe"
     },
     {
-      "title": "Communication",
-      "id": "communication"
+      "title": "Crack",
+      "id": "recipe"
     },
     {
-      "title": "Developer",
-      "id": "developer"
+      "title": "Cool Whip Cookies",
+      "id": "recipe"
     },
     {
-      "title": "GitHub",
-      "id": "github",
-      "parent": "developer"
+      "title": "Dunking Platters",
+      "id": "recipe"
     },
     {
-      "title": "Terminal",
-      "id": "terminal",
-      "parent": "developer"
+      "title": "Glazed Honey Ham",
+      "id": "recipe"
     },
     {
-      "title": "Education",
-      "id": "education"
+      "title": "Green Jell-O ",
+      "id": "recipe"
     },
     {
-      "title": "Emulator",
-      "id": "emulator"
+      "title": "Hello Dollys",
+      "id": "recipe"
     },
     {
-      "title": "Event",
-      "id": "event"
+      "title": "Layer Salad",
+      "id": "recipe"
     },
     {
-      "title": "Extension",
-      "id": "extension"
+      "title": "Molasses Cookies ",
+      "id": "recipe"
     },
     {
-      "title": "Content Blocking",
-      "id": "content-blocking",
-      "parent": "extension"
+      "title": "Pasta salad",
+      "id": "recipe",
     },
     {
-      "title": "Safari Extension",
-      "id": "safari-extension",
-      "parent": "extension"
+      "title": "Peanut Butter Chocolate Cookies ",
+      "id": "recipe",
     },
     {
-      "title": "Today",
-      "id": "today",
+      "title": "Peanut Butter Fudge",
+      "id": "recipe",
       "description": "Today Extensions or Widgets",
-      "parent": "extension"
     },
     {
-      "title": "Widget",
-      "id": "widget",
+      "title": "Sugar Cookies",
+      "id": "recipe",
       "description": "Widget (iOS 14)",
-      "parent": "extension"
     },
     {
-      "title": "File",
-      "id": "file",
+      "title": "Stroganoff",
+      "id": "recipe",
       "description": "File Management"
     },
     {
-      "title": "Finance",
-      "id": "finance"
+      "title": "Sweet Potato and Apple Bake",
+      "id": "recipe"
     },
     {
-      "title": "Cryptocurrency",
-      "id": "cryptocurrency",
-      "parent": "finance"
-    },
-    {
-      "title": "Game",
-      "id": "game"
-    },
-    {
-      "title": "Cocos2d",
-      "id": "cocos2d",
-      "parent": "game",
-      "description": "https://cocos2d.org/"
-    },
-    {
-      "title": "SpriteKit",
-      "id": "spritekit",
-      "parent": "game",
-      "description": "https://developer.apple.com/reference/spritekit"
-    },
-    {
-      "title": "Health",
-      "id": "health"
-    },
-    {
-      "id": "contact-tracing",
-      "title": "Contact Tracing",
-      "parent": "health"
-    },
-    {
-      "id": "contact-tracing-reference",
-      "title": "Contact Tracing Reference",
-      "parent": "health"
-    },
-    {
-      "id": "fitness",
-      "title": "Fitness",
-      "parent": "health"
-    },
-    {
-      "title": "ResearchKit",
-      "id": "researchkit",
-      "parent": "health",
-      "description": "https://www.apple.com/researchkit/"
-    },
-    {
-      "title": "Home",
-      "id": "home"
-    },
-    {
-      "title": "Location",
-      "id": "location"
-    },
-    {
-      "title": "Media",
-      "id": "media",
-      "description": "Image, video, audio, reading"
-    },
-    {
-      "title": "Animoji",
-      "id": "animoji",
-      "parent": "media"
-    },
-    {
-      "title": "Audio",
-      "id": "audio",
-      "parent": "media"
-    },
-    {
-      "title": "Content",
-      "id": "content",
-      "parent": "media"
-    },
-    {
-      "title": "GIF",
-      "id": "gif",
-      "description": "Mostly using https://giphy.com/",
-      "parent": "media"
-    },
-    {
-      "title": "Photo",
-      "id": "photo",
-      "parent": "media"
-    },
-    {
-      "title": "Video",
-      "id": "video",
-      "parent": "media"
-    },
-    {
-      "title": "News",
-      "id": "news"
-    },
-    {
-      "title": "Hacker News",
-      "id": "hacker-news",
-      "parent": "news",
-      "description": "https://news.ycombinator.com/"
-    },
-    {
-      "title": "News API",
-      "id": "news-api",
-      "parent": "news",
-      "description": "https://newsapi.org/"
-    },
-    {
-      "title": "RSS",
-      "id": "rss",
-      "parent": "news"
-    },
-    {
-      "title": "Official",
-      "id": "official"
-    },
-    {
-      "title": "Sample",
-      "id": "sample"
-    },
-    {
-      "title": "Scan",
-      "id": "scan"
-    },
-    {
-      "title": "Security",
-      "id": "security"
-    },
-    {
-      "title": "Password",
-      "id": "password",
-      "parent": "security"
-    },
-    {
-      "title": "Shopping",
-      "id": "shopping"
-    },
+      "title": "Tuekey Casserole",
+      "id": "recipe",
+    }  
+
     {
       "title": "Social",
       "id": "social"
