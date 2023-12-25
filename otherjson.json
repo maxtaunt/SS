@@ -228,23 +228,13 @@
   ],
   "projects": [
     {
-      "title": "ingridents",
+      "title": "Ingredients",
       "category-ids": [
-        "recipe"
+        "breakfast-pizza"
       ],
       "tags": [
-        "swift",
-        "tron",
-        "ipad",
-        "macos",
-        "anime",
-        "manga",
-        "game",
-        "music",
-        "multilingual",
-        "wiki"
       ],
-      "description": "Official app for discovering and tracking anime, manga, game, music",
+      "description": "1 package of uncooked crescent rolls  1 ½lb sausages, cooked and drained  6 eggs, slightly beaten  1 TBS salt  2 cups of grated cheese  1 cup of milk"
       "source": "https://github.com/kurozora/kurozora-app",
       "itunes": "https://apps.apple.com/app/kurozora/id1476153872",
       "screenshots": [
