@@ -7,6 +7,14 @@
   "sponsor": "",
   "categories": [
     {
+      "title": "Breakfast Pizza",
+      "id": "breakfast-pizza"
+    },
+    {
+      "title": "Cabbage Salad",
+      "id": "cabbage-salad"
+    },
+    {
       "title": "Apple TV",
       "id": "apple-tv"
     },
@@ -364,6 +372,29 @@
     }
   ],
   "projects": [
+     {
+      "title": "Ingredients",
+      "category-ids": [
+        "breakfast-pizza"
+      ],
+      "tags": [
+        "Family Favs",
+        "obj-c"
+      ],
+      "description": "1 package of uncooked crescent rolls 1 ½lb sausages, cooked and drained  6 eggs, slightly beaten  1 TBS salt  2 cups of grated cheese  1 cup of milk",
+      "source": "https://github.com/ish-app/ish",
+      "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
+      "homepage": "https://ish.app",
+      "screenshots": [
+        "https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg",
+        "https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg"
+      ],
+      "date_added": "Mar 21, 2019",
+      "license": "gpl-3.0",
+      "suggested_by": "@PseudonymPatel",
+      "stars": 15144,
+      "updated": "2023-11-27 06:23:32 UTC"
+    },
     {
       "title": "Kurozora",
       "category-ids": [
