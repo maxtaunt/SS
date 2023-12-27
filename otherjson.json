@@ -19,7 +19,7 @@
       "id": "caramel-corn"
     },
     {
-      "title": "Caramel Layer Chocolate Squares ",
+      "title": "Caramel Chocolate Squares",
       "id": "caramel-layer"
     },
     {
@@ -370,9 +370,7 @@
         "breakfast-pizza"
       ],
       "description": "1 package of uncooked crescent rolls, \n1 ½lb sausages, cooked and drained  \n6 eggs, slightly beaten  \n1 TBS salt  \n2 cups of grated cheese  \n1 cup of milk",
-      "source": "https://github.com/ish-app/ish",
-      "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
-      "homepage": "",
+      "source": "https://taunton.io",
     },
          {
       "title": "Instructions",
@@ -380,193 +378,65 @@
         "breakfast-pizza"
       ],
       "description": "1. Preheat oven to 350⁰  \n2. Place uncooked rolls on bottom of greased 9 in x 13 in pan  \n3. In a large bowl, mix sausages, eggs, salt, cheese, and milk.  \n4. Pour mixture over rolls.  \n5. Bake for 45-60 Mins",
-      "source": "https://github.com/ish-app/ish",
-      "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
-      "homepage": "https://ish.app",
-      "screenshots": [
-        "https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg",
-        "https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg"
+      "source": "https://taunton.io",
+      },
+    {
+      "title": "Ingredients",
+      "category-ids": [
+        "cabbage-salad"
       ],
+      "description": "½  head of cabbage \n1 package of Top Ramen©, break into pieces and pour boiling water over noodles until soft  \n1 Cup silvered almonds  \n3 chicken beasts, cooked and shredded",
+      "source": "https://taunton.io",
     },
     {
-      "title": "Kurozora",
+      "title": "Instructions",
       "category-ids": [
-        "official"
+        "cabbage-salad"
       ],
-      "tags": [
-        "swift",
-        "tron",
-        "ipad",
-        "macos",
-        "anime",
-        "manga",
-        "game",
-        "music",
-        "multilingual",
-        "wiki"
-      ],
-      "description": "Official app for discovering and tracking anime, manga, game, music",
-      "source": "https://github.com/kurozora/kurozora-app",
-      "itunes": "https://apps.apple.com/app/kurozora/id1476153872",
-      "screenshots": [
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/1.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/2.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/4.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/5.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/6.jpg"
-      ],
-      "date_added": "June 11, 2023",
-      "license": "gpl-3.0",
-      "suggested_by": "@kiritokatklian",
-      "stars": 24,
-      "updated": "2023-11-17 00:21:14 UTC"
+      "description": "3 Tbs sugar \n3 Tbs vinegar \n½ Cup neutral oil \nsalt and pepper",
+      "source": "https://taunton.io",
     },
     {
-      "title": "iSH",
+      "title": "Ingredients",
       "category-ids": [
-        "developer",
-        "emulator"
+        "caramel-corn"
       ],
-      "tags": [
-        "c",
-        "obj-c"
-      ],
-      "description": "Linux shell",
-      "source": "https://github.com/ish-app/ish",
-      "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
-      "homepage": "https://ish.app",
-      "screenshots": [
-        "https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg",
-        "https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg"
-      ],
-      "date_added": "Mar 21, 2019",
-      "license": "gpl-3.0",
-      "suggested_by": "@PseudonymPatel",
-      "stars": 15144,
-      "updated": "2023-11-27 06:23:32 UTC"
+      "description": "1 Cup brown sugar  \n½ Cup corn syrup  \n½ Cup butter  \n½ Tbs salt  \n4 Qts popped popcorn  \n½ Tbs baking soda",
+      "source": "https://taunton.io",
     },
     {
-      "title": "Artsy Shows",
+      "title": "Instructions",
       "category-ids": [
-        "apple-tv"
+        "caramel-corn"
       ],
-      "description": "Art shows",
-      "license": "mit",
-      "source": "https://github.com/artsy/Emergence",
-      "itunes": "https://apps.apple.com/by/app/artsy-shows/id1044690553",
-      "stars": 353,
-      "tags": [
-        "swift",
-        "cocoapodskeys",
-        "archive"
-      ],
-      "date_added": "Fri Nov 6 06:19:26 2015 -0800",
-      "suggested_by": "@dkhamsing",
-      "screenshots": [
-        "https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png",
-        "https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png"
-      ],
-      "updated": "2020-02-19 16:46:09 UTC"
+      "description": "1. Mix sugar, corn syrup, butter, and salt in a microwave-safe dish. \n(recommend: «PYREX» not «Pyrex» dishes) \n2. Microwave mixture for 4 minutes \n3. Put popcorn in a paper grocery bag. \n4. Add baking soda to mixture, and stir untillbit foams up. \n5. Pour mixture over popcorn, close bag, & shake. \n6. Microwave popcorn for 2 minutes and shake. \n7. Microwave popcorn for 2 more minutes and shake before serving",
+      "source": "https://taunton.io",
     },
     {
-      "title": "EX Player",
+      "title": "Servings",
       "category-ids": [
-        "apple-tv"
+        "caramel-layer"
       ],
-      "tags": [
-        "objc",
-        "archive"
-      ],
-      "description": "Watch videos from EX.UA file sharing",
-      "license": "lgpl-2.1",
-      "source": "https://github.com/IGRSoft/exTVPlayer",
-      "stars": 22,
-      "screenshots": [
-        "https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png"
-      ],
-      "date_added": "Tue Feb 9 14:02:53 2016 +0200",
-      "suggested_by": "@Vitalii Parovishnyk",
-      "updated": "2017-01-25 14:01:22 UTC"
+      "description": "Makes 40 squares",
+      "source": "https://taunton.io",
     },
     {
-      "title": "Provenance",
+      "title": "Ingredients",
       "category-ids": [
-        "apple-tv",
-        "emulator"
+        "caramel-layer"
       ],
-      "tags": [
-        "realm"
-      ],
-      "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
-      "source": "https://github.com/Provenance-Emu/Provenance",
-      "stars": 5447,
-      "screenshots": [
-        "https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png"
-      ],
-      "license": "bsd-3-clause",
-      "date_added": "Mon Apr 27 13:06:49 2015 -0700",
-      "suggested_by": "@dkhamsing",
-      "updated": "2023-10-31 21:45:27 UTC"
+      "description": "1 package of German chocolate cake mix  \n1 ¼ sticks of margarine (melted)  \n⅔ Cup sweetend condensed milk  \n1 Cup chopped nuts  \n1  14 oz package of kraft caramels  \n1 16 oz package of chocolate chips",
+      "source": "https://taunton.io",
     },
     {
-      "title": "UitzendingGemist by jeffkreeftmeijer",
+      "title": "Instructions",
       "category-ids": [
-        "apple-tv"
+        "caramel-layer"
       ],
-      "description": "Dutch Public Broadcasting video on demand",
-      "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
-      "lang": "nld",
-      "license": "mit",
-      "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/jeffkreeftmeijer/UitzendingGemist/master/Screenshots/recent.png"
-      ],
-      "stars": 78,
-      "date_added": "Tue Nov 10 07:41:07 2015 -0800",
-      "suggested_by": "@dkhamsing",
-      "updated": "2017-03-16 08:07:22 UTC"
+      "description": "1. Preheat oven to 350⁰. \n2. In a large bowl, combine cake mix, margarine, ⅓ Cups milk, and nuts by hand. \n3. Grease 9in x 13in pan. \n4. Spread ¾ of cake mixture into pan. \n5. Bake for 6 minutes. \n6. While cake is baking, melt caramels in a saucepan with ⅓ Cup of milk, stirring constantly until mixture is completely melted. \n7. After taking pan out of the oven, sprinkle chocolate chips all over the cake. \n8. spread caramel over chocolate chips. \n9. Separate remaining cake mix into bits and dab over caramel layer. \n10. Bake for 16 more minutes. \n11. Cool for 5 minutes before refrigerating for 30 minutes. \n12. Cut into squares and serve.",
+      "source": "https://taunton.io",
     },
-    {
-      "title": "WWDCTV",
-      "category-ids": [
-        "apple-tv"
-      ],
-      "tags": [
-        "objc"
-      ],
-      "description": "Watch WWDC Videos",
-      "source": "https://github.com/azzoor/WWDCTV",
-      "stars": 420,
-      "screenshots": [
-        "https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"
-      ],
-      "license": "other",
-      "date_added": "Thu Nov 19 07:47:53 2015 -0800",
-      "suggested_by": "@dkhamsing",
-      "updated": "2016-07-12 05:53:50 UTC"
-    },
-    {
-      "title": "BaiduFM",
-      "category-ids": [
-        "apple-watch"
-      ],
-      "description": "For Baidu Music",
-      "source": "https://github.com/belm/BaiduFM-Swift",
-      "stars": 579,
-      "lang": "zho",
-      "screenshots": [
-        "https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true"
-      ],
-      "tags": [
-        "swift"
-      ],
-      "license": "other",
-      "date_added": "Thu Aug 6 15:40:46 2015 +0800",
-      "suggested_by": "@xubinggui",
-      "updated": "2021-02-03 08:56:45 UTC"
-    },
+    
     {
       "title": "RedditWatch",
       "category-ids": [
