@@ -6,100 +6,238 @@
   "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
   "sponsor": "",
   "categories": [
-  {
-      "title": "Breakfast Pizza",
-      "id": "breakfast-pizza"
+    {
+      "title": "Apple TV",
+      "id": "apple-tv"
     },
     {
-      "title": "Cabbage Salad",
-      "id": "recipe"
+      "title": "Apple Watch",
+      "id": "apple-watch"
     },
     {
-      "title": "Caramel Corn",
+      "title": "Browser",
       "id": "browser"
     },
     {
-      "title": "Caramel Layer Chocolate Squares ",
-      "id": "recipe"
+      "title": "Calculator",
+      "id": "calculator"
     },
     {
-      "title": "Cereal mix",
-      "id": "recipe"
+      "title": "Calendar",
+      "id": "calendar"
     },
     {
-      "title": "Apricot Balls",
-      "id": "recipe"
+      "title": "Color",
+      "id": "color"
     },
     {
-      "title": "Chex mix",
-      "id": "recipe"
+      "title": "Clock",
+      "id": "clock"
     },
     {
-      "title": "Cinnamon Squares",
-      "id": "recipe"
+      "title": "Clone",
+      "id": "clone"
     },
     {
-      "title": "Crack",
-      "id": "recipe"
+      "title": "Communication",
+      "id": "communication"
     },
     {
-      "title": "Cool Whip Cookies",
-      "id": "recipe"
+      "title": "Developer",
+      "id": "developer"
     },
     {
-      "title": "Dunking Platters",
-      "id": "recipe"
+      "title": "GitHub",
+      "id": "github",
+      "parent": "developer"
     },
     {
-      "title": "Glazed Honey Ham",
-      "id": "recipe"
+      "title": "Terminal",
+      "id": "terminal",
+      "parent": "developer"
     },
     {
-      "title": "Green Jell-O ",
-      "id": "recipe"
+      "title": "Education",
+      "id": "education"
     },
     {
-      "title": "Hello Dollys",
-      "id": "recipe"
+      "title": "Emulator",
+      "id": "emulator"
     },
     {
-      "title": "Layer Salad",
-      "id": "recipe"
+      "title": "Event",
+      "id": "event"
     },
     {
-      "title": "Molasses Cookies ",
-      "id": "recipe"
+      "title": "Extension",
+      "id": "extension"
     },
     {
-      "title": "Pasta salad",
-      "id": "recipe",
+      "title": "Content Blocking",
+      "id": "content-blocking",
+      "parent": "extension"
     },
     {
-      "title": "Peanut Butter Chocolate Cookies ",
-      "id": "recipe",
+      "title": "Safari Extension",
+      "id": "safari-extension",
+      "parent": "extension"
     },
     {
-      "title": "Peanut Butter Fudge",
-      "id": "recipe",
+      "title": "Today",
+      "id": "today",
       "description": "Today Extensions or Widgets",
+      "parent": "extension"
     },
     {
-      "title": "Sugar Cookies",
-      "id": "recipe",
+      "title": "Widget",
+      "id": "widget",
       "description": "Widget (iOS 14)",
+      "parent": "extension"
     },
     {
-      "title": "Stroganoff",
-      "id": "recipe",
+      "title": "File",
+      "id": "file",
       "description": "File Management"
     },
     {
-      "title": "Sweet Potato and Apple Bake",
-      "id": "recipe"
+      "title": "Finance",
+      "id": "finance"
     },
     {
-      "title": "Tuekey Casserole",
-      "id": "recipe",
+      "title": "Cryptocurrency",
+      "id": "cryptocurrency",
+      "parent": "finance"
+    },
+    {
+      "title": "Game",
+      "id": "game"
+    },
+    {
+      "title": "Cocos2d",
+      "id": "cocos2d",
+      "parent": "game",
+      "description": "https://cocos2d.org/"
+    },
+    {
+      "title": "SpriteKit",
+      "id": "spritekit",
+      "parent": "game",
+      "description": "https://developer.apple.com/reference/spritekit"
+    },
+    {
+      "title": "Health",
+      "id": "health"
+    },
+    {
+      "id": "contact-tracing",
+      "title": "Contact Tracing",
+      "parent": "health"
+    },
+    {
+      "id": "contact-tracing-reference",
+      "title": "Contact Tracing Reference",
+      "parent": "health"
+    },
+    {
+      "id": "fitness",
+      "title": "Fitness",
+      "parent": "health"
+    },
+    {
+      "title": "ResearchKit",
+      "id": "researchkit",
+      "parent": "health",
+      "description": "https://www.apple.com/researchkit/"
+    },
+    {
+      "title": "Home",
+      "id": "home"
+    },
+    {
+      "title": "Location",
+      "id": "location"
+    },
+    {
+      "title": "Media",
+      "id": "media",
+      "description": "Image, video, audio, reading"
+    },
+    {
+      "title": "Animoji",
+      "id": "animoji",
+      "parent": "media"
+    },
+    {
+      "title": "Audio",
+      "id": "audio",
+      "parent": "media"
+    },
+    {
+      "title": "Content",
+      "id": "content",
+      "parent": "media"
+    },
+    {
+      "title": "GIF",
+      "id": "gif",
+      "description": "Mostly using https://giphy.com/",
+      "parent": "media"
+    },
+    {
+      "title": "Photo",
+      "id": "photo",
+      "parent": "media"
+    },
+    {
+      "title": "Video",
+      "id": "video",
+      "parent": "media"
+    },
+    {
+      "title": "News",
+      "id": "news"
+    },
+    {
+      "title": "Hacker News",
+      "id": "hacker-news",
+      "parent": "news",
+      "description": "https://news.ycombinator.com/"
+    },
+    {
+      "title": "News API",
+      "id": "news-api",
+      "parent": "news",
+      "description": "https://newsapi.org/"
+    },
+    {
+      "title": "RSS",
+      "id": "rss",
+      "parent": "news"
+    },
+    {
+      "title": "Official",
+      "id": "official"
+    },
+    {
+      "title": "Sample",
+      "id": "sample"
+    },
+    {
+      "title": "Scan",
+      "id": "scan"
+    },
+    {
+      "title": "Security",
+      "id": "security"
+    },
+    {
+      "title": "Password",
+      "id": "password",
+      "parent": "security"
+    },
+    {
+      "title": "Shopping",
+      "id": "shopping"
     },
     {
       "title": "Social",
@@ -227,14 +365,23 @@
   ],
   "projects": [
     {
-      "title": "Ingredients",
+      "title": "Kurozora",
       "category-ids": [
-        "breakfast-pizza"
+        "official"
       ],
       "tags": [
-        "hi"
+        "swift",
+        "tron",
+        "ipad",
+        "macos",
+        "anime",
+        "manga",
+        "game",
+        "music",
+        "multilingual",
+        "wiki"
       ],
-      "description": "1 package of uncooked crescent rolls  1 ½lb sausages, cooked and drained  6 eggs, slightly beaten  1 TBS salt  2 cups of grated cheese  1 cup of milk"
+      "description": "Official app for discovering and tracking anime, manga, game, music",
       "source": "https://github.com/kurozora/kurozora-app",
       "itunes": "https://apps.apple.com/app/kurozora/id1476153872",
       "screenshots": [
