@@ -22,341 +22,85 @@
       "title": "Caramel Chocolate Squares",
       "id": "caramel-layer"
     },
-    {
-      "title": "Calendar",
-      "id": "calendar"
-    },
-    {
-      "title": "Color",
-      "id": "color"
-    },
-    {
-      "title": "Clock",
-      "id": "clock"
-    },
-    {
-      "title": "Clone",
-      "id": "clone"
-    },
-    {
-      "title": "Communication",
-      "id": "communication"
-    },
-    {
-      "title": "Developer",
-      "id": "developer"
-    },
-    {
-      "title": "GitHub",
-      "id": "github",
-      "parent": "developer"
-    },
-    {
-      "title": "Terminal",
-      "id": "terminal",
-      "parent": "developer"
-    },
-    {
-      "title": "Education",
-      "id": "education"
-    },
-    {
-      "title": "Emulator",
-      "id": "emulator"
-    },
-    {
-      "title": "Event",
-      "id": "event"
-    },
-    {
-      "title": "Extension",
-      "id": "extension"
-    },
-    {
-      "title": "Content Blocking",
-      "id": "content-blocking",
-      "parent": "extension"
-    },
-    {
-      "title": "Safari Extension",
-      "id": "safari-extension",
-      "parent": "extension"
-    },
-    {
-      "title": "Today",
-      "id": "today",
-      "description": "Today Extensions or Widgets",
-      "parent": "extension"
-    },
-    {
-      "title": "Widget",
-      "id": "widget",
-      "description": "Widget (iOS 14)",
-      "parent": "extension"
-    },
-    {
-      "title": "File",
-      "id": "file",
-      "description": "File Management"
-    },
-    {
-      "title": "Finance",
-      "id": "finance"
-    },
-    {
-      "title": "Cryptocurrency",
-      "id": "cryptocurrency",
-      "parent": "finance"
-    },
-    {
-      "title": "Game",
-      "id": "game"
-    },
-    {
-      "title": "Cocos2d",
-      "id": "cocos2d",
-      "parent": "game",
-      "description": "https://cocos2d.org/"
-    },
-    {
-      "title": "SpriteKit",
-      "id": "spritekit",
-      "parent": "game",
-      "description": "https://developer.apple.com/reference/spritekit"
-    },
-    {
-      "title": "Health",
-      "id": "health"
-    },
-    {
-      "id": "contact-tracing",
-      "title": "Contact Tracing",
-      "parent": "health"
-    },
-    {
-      "id": "contact-tracing-reference",
-      "title": "Contact Tracing Reference",
-      "parent": "health"
-    },
-    {
-      "id": "fitness",
-      "title": "Fitness",
-      "parent": "health"
-    },
-    {
-      "title": "ResearchKit",
-      "id": "researchkit",
-      "parent": "health",
-      "description": "https://www.apple.com/researchkit/"
-    },
-    {
-      "title": "Home",
-      "id": "home"
-    },
-    {
-      "title": "Location",
-      "id": "location"
-    },
-    {
-      "title": "Media",
-      "id": "media",
-      "description": "Image, video, audio, reading"
-    },
-    {
-      "title": "Animoji",
-      "id": "animoji",
-      "parent": "media"
-    },
-    {
-      "title": "Audio",
-      "id": "audio",
-      "parent": "media"
-    },
-    {
-      "title": "Content",
-      "id": "content",
-      "parent": "media"
-    },
-    {
-      "title": "GIF",
-      "id": "gif",
-      "description": "Mostly using https://giphy.com/",
-      "parent": "media"
-    },
-    {
-      "title": "Photo",
-      "id": "photo",
-      "parent": "media"
-    },
-    {
-      "title": "Video",
-      "id": "video",
-      "parent": "media"
-    },
-    {
-      "title": "News",
-      "id": "news"
-    },
-    {
-      "title": "Hacker News",
-      "id": "hacker-news",
-      "parent": "news",
-      "description": "https://news.ycombinator.com/"
-    },
-    {
-      "title": "News API",
-      "id": "news-api",
-      "parent": "news",
-      "description": "https://newsapi.org/"
-    },
-    {
-      "title": "RSS",
-      "id": "rss",
-      "parent": "news"
-    },
-    {
-      "title": "Official",
-      "id": "official"
-    },
-    {
-      "title": "Sample",
-      "id": "sample"
-    },
-    {
-      "title": "Scan",
-      "id": "scan"
-    },
-    {
-      "title": "Security",
-      "id": "security"
-    },
-    {
-      "title": "Password",
-      "id": "password",
-      "parent": "security"
-    },
-    {
-      "title": "Shopping",
-      "id": "shopping"
-    },
-    {
-      "title": "Social",
-      "id": "social"
-    },
-    {
-      "title": "Mastodon",
-      "id": "mastodon",
-      "parent": "social",
-      "description": "https://joinmastodon.org"
-    },
-    {
-      "title": "Tasks",
-      "id": "tasks"
-    },
-    {
-      "title": "Text",
-      "id": "text"
+     {
+      "title": "Caramel Layer Chocolate Squares ",
+      "id": "layer-chocolate"
     },
     {
-      "title": "Notes",
-      "id": "notes",
-      "parent": "text"
+      "title": "Cereal mix",
+      "id": "cereal-mix"
     },
     {
-      "title": "Timer",
-      "id": "timer"
+      "title": "Apricot Balls",
+      "id": "apricot-balls"
     },
     {
-      "title": "Travel",
-      "id": "travel"
+      "title": "Chex mix",
+      "id": "chex"
     },
     {
-      "title": "Weather",
-      "id": "weather"
+      "title": "Cinnamon Squares",
+      "id": "cinnamon-squares"
     },
     {
-      "title": "Misc",
-      "id": "misc"
+      "title": "Crack",
+      "id": "crack"
     },
     {
-      "title": "Appcelerator",
-      "id": "appcelerator",
-      "parent": "misc"
+      "title": "Cool Whip Cookies",
+      "id": "cool-whip"
     },
     {
-      "title": "Core Data",
-      "id": "core-data",
-      "parent": "misc"
+      "title": "Dunking Platters",
+      "id": "dunking-plat"
     },
     {
-      "title": "Firebase",
-      "id": "firebase",
-      "parent": "misc",
-      "description": "https://firebase.google.com/"
+      "title": "Glazed Honey Ham",
+      "id": "honey-ham"
     },
     {
-      "title": "Flutter",
-      "id": "flutter",
-      "parent": "misc",
-      "description": "https://flutter.dev"
+      "title": "Green Jell-O ",
+      "id": "jello"
     },
     {
-      "title": "GraphQL",
-      "id": "graphql",
-      "parent": "misc"
+      "title": "Hello Dollys",
+      "id": "dollys"
     },
     {
-      "title": "Ionic",
-      "id": "ionic",
-      "parent": "misc",
-      "description": "https://ionicframework.com/"
+      "title": "Layer Salad",
+      "id": "layer-salad"
     },
     {
-      "title": "macOS",
-      "id": "macos",
-      "parent": "misc",
-      "description": "Cross platform projects"
+      "title": "Molasses Cookies ",
+      "id": "molasses"
     },
     {
-      "title": "React Native",
-      "id": "react-native",
-      "parent": "misc",
-      "description": "https://facebook.github.io/react-native/"
+      "title": "Pasta salad",
+      "id": "pasta-salad",
     },
     {
-      "title": "ReactiveCocoa",
-      "id": "reactivecocoa",
-      "parent": "misc",
-      "description": "https://github.com/ReactiveCocoa/ReactiveCocoa"
+      "title": "Peanut Chocolate Cookies ",
+      "id": "peanut-chocolate",
     },
     {
-      "title": "Realm",
-      "id": "realm",
-      "parent": "misc",
-      "description": "https://realm.io/"
+      "title": "Peanut Butter Fudge",
+      "id": "peanut-fudge",
     },
     {
-      "title": "RxSwift",
-      "id": "rxswift",
-      "parent": "misc",
-      "description": "https://github.com/ReactiveX/RxSwift"
+      "title": "Sugar Cookies",
+      "id": "sugar-cookies",
     },
     {
-      "title": "SwiftUI",
-      "id": "swiftui",
-      "parent": "misc"
+      "title": "Stroganoff",
+      "id": "stroganoff",
     },
     {
-      "title": "VIPER",
-      "id": "viper",
-      "parent": "misc",
-      "description": "https://www.objc.io/issues/13-architecture/viper/"
+      "title": "Sweet Potato and Apple Bake",
+      "id": "potato-apple"
     },
     {
-      "title": "Xamarin",
-      "id": "xamarin",
-      "parent": "misc",
-      "description": "https://www.xamarin.com/"
+      "title": "Turkey Casserole",
+      "id": "turkey-casserole",
     },
     {
       "title": "Bonus",
