@@ -241,16 +241,25 @@
       "updated": "2015-04-29 13:36:11 UTC"
     },
     {
+      "title": "Request a recipe",
+      "category-ids": [
+        "bonus"
+      ], 
+      "source": "https://taunton.io/apps#cook",       
+      "tags": [
+        "Add your own recipie!"         
+      ],
+      "suggested_by": "@maxtaunt"             
+    },
+    {
       "title": "Taunton Recipes",
       "category-ids": [
         "other-apps"
       ], 
-      "source": "https://github.com/laevandus/OnDemandAPIKeyExample",       
-      "license": "mit",
+      "source": "https://taunton.io/apps#cook",       
       "tags": [
         "Recipes from the Original Taunton Cookbook"         
       ],
-      "date_added": "Dec 1 2023",
       "suggested_by": "@dkhamsing"             
     }    
   ]
