@@ -187,35 +187,18 @@
       "source": "https://taunton.io",
     },
     {
-      "title": "RedditWatch",
+      "title": "Ingredients",
       "category-ids": [
         "layer-chocolate"
       ],
       "description": "A feature-packed Reddit client for the Apple Watch",
-      "source": "https://github.com/opensourceios/RedditWatch",
     },
     {
-      "title": "Bither",
+      "title": "Instructions",
       "category-ids": [
-        "apple-watch",
-        "cryptocurrency"
+        "layer-chocolate"
       ],
-      "description": "Simple & secure Bitcoin wallet",
-      "license": "apache-2.0",
-      "source": "https://github.com/bither/bither-ios",
-      "tags": [
-        "objc"
-      ],
-      "screenshots": [
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/41/7e/fe/417efe4a-cb72-2911-af76-5c3c95af8d13/pr_source.png/460x0w.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/39/68/85/39688509-61d9-a94a-d8fb-7f5642bf1e94/pr_source.png/460x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0f/12/3c0f12c3-2bfe-c262-e01f-b2b8698cc624/pr_source.png/460x0w.jpg",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/86/71/7b/86717be0-9497-cefa-6e40-c8a9bf48002c/pr_source.png/460x0w.jpg"
-      ],
-      "stars": 264,
-      "date_added": "Fri Apr 3 17:59:14 2015 +0800",
-      "suggested_by": "宋辰文",
-      "updated": "2023-11-27 07:13:48 UTC"
+      "description": "A feature-packed Reddit client for the Apple Watch",
     },
     {
       "title": "Brew",
@@ -245,7 +228,7 @@
       "category-ids": [
         "bonus"
       ], 
-      "source": "https://taunton.io/apps#cook",       
+      "source": "https://taunton.io/",       
       "tags": [
         "Add your own recipie!"         
       ],
