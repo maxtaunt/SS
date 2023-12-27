@@ -105,6 +105,12 @@
     {
       "title": "Bonus",
       "id": "bonus"
+    },
+      {
+      "title": "Other Apps",
+      "id": "other-apps",
+      "parent": "bonus",
+      "description": "More apps by Max Taunton"
     }
   ],
   "projects": [
@@ -235,9 +241,9 @@
       "updated": "2015-04-29 13:36:11 UTC"
     },
     {
-      "title": "Using on-demand resources for securely storing API keys",
+      "title": "Taunton Recipes",
       "category-ids": [
-        "Bonus","Other Apps"
+        "bonus","other-apps"
       ], 
       "source": "https://github.com/laevandus/OnDemandAPIKeyExample",       
       "license": "mit",
