@@ -19,8 +19,8 @@
       "id": "caramel-corn"
     },
     {
-      "title": "Calculator",
-      "id": "calculator"
+      "title": "Caramel Layer Chocolate Squares ",
+      "id": "caramel-layer"
     },
     {
       "title": "Calendar",
@@ -369,17 +369,10 @@
       "category-ids": [
         "breakfast-pizza"
       ],
-      "tags": [
-        ""
-      ],
       "description": "1 package of uncooked crescent rolls, \n1 ½lb sausages, cooked and drained  \n6 eggs, slightly beaten  \n1 TBS salt  \n2 cups of grated cheese  \n1 cup of milk",
       "source": "https://github.com/ish-app/ish",
       "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
       "homepage": "",
-      "screenshots": [
-        ""
-      ],
-      "updated": ""
     },
          {
       "title": "Instructions",
@@ -394,7 +387,6 @@
         "https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg",
         "https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg"
       ],
-      "updated": ""
     },
     {
       "title": "Kurozora",
