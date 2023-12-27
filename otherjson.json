@@ -243,12 +243,12 @@
     {
       "title": "Taunton Recipes",
       "category-ids": [
-        "bonus","other-apps"
+        "other-apps"
       ], 
       "source": "https://github.com/laevandus/OnDemandAPIKeyExample",       
       "license": "mit",
       "tags": [
-        "swift"         
+        "Recipes from the Original Taunton Cookbook"         
       ],
       "date_added": "Dec 1 2023",
       "suggested_by": "@dkhamsing"             
