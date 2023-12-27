@@ -15,6 +15,10 @@
       "id": "cabbage-salad"
     },
     {
+      "title": "Carrot Cake"
+      "id": "carrot-cake"
+    },
+    {
       "title": "Caramel Corn",
       "id": "caramel-corn"
     },
@@ -189,16 +193,15 @@
     {
       "title": "Ingredients",
       "category-ids": [
-        "layer-chocolate"
+        "carrot-cake"
       ],
-      "description": "A feature-packed Reddit client for the Apple Watch",
-    },
+      "description": "Cake : \n1½ Cup oil  \n2 Cups sugar  \n4 eggs  \n2 Cups grated carrots  \n1½cups chopped nuts  \n2 Cups flower  \n2tsp baking powder  \n1½ tsp baking soda \n1 tsp salt  \n2 tsp cinnamon   \n1  8½oz can of crushed pineapple, drained \n\nFrosting:  \n1   8 oz package of cream cheese  \n1 lb powdered sugar  \n1 tsp vanilla",    },
     {
       "title": "Instructions",
       "category-ids": [
-        "layer-chocolate"
+        "carrot-cake"
       ],
-      "description": "A feature-packed Reddit client for the Apple Watch",
+      "description": "Cake instructions: \n1. Preheat oven to 350⁰. \n2. Blend oil and sugar. \n3. Add eggs, one at a time. \n4. add carrots and nuts. \n5. Sift together flower, baking powder, baking soda, salt, and cinnamon. \n6. Add flower to carrot mixture alternately with drained pineapple. \n7. Pour mixture into 9 x 12 pan. \n8. Bake for 35-40mins.  \n\nFrosting Instructions \n1. Blend cream cheese with sugar. \n2. add vanilla and enough milk to bring to spreading consistency. \n3. spread frosting on cake",
     },
     {
       "title": "Brew",
@@ -228,7 +231,7 @@
       "category-ids": [
         "bonus"
       ], 
-      "source": "https://taunton.io/",       
+      "source": "https://forms.gle/xzT312y4Kj3VQbBd7",       
       "tags": [
         "Add your own recipie!"         
       ],
