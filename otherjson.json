@@ -218,6 +218,14 @@
       "description": "1. Preheat oven to 300⁰. \n2. Measure cereal into large bowl and set aside. \n3. In large microwavable bowl, melt butter. \n4. Stir in seasonings \n5. Gradually stir seasonings into cereal until evenly coated. \n6. Bake 1 hour, stirring every 15 minutes. \n7. spread on paper towels to cool. \n8. Store in an airtight container in a cool environment",
     },
         {
+      "title": "ingrediants",
+      "category-ids": [
+        "cereal-mix"
+      ],
+      "description": "Makes 40 squares",
+      "source": "https://taunton.io"
+    },
+            {
       "title": "Servings",
       "category-ids": [
         "caramel-layer"
